@@ -1,0 +1,2 @@
+# Evaluate
+print((10 + 5) * 2)
